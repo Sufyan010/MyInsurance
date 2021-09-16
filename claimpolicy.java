@@ -1,1 +1,3 @@
-class ClaimPolicy{ }
+public class ClaimPolicy{ 
+	//
+}
